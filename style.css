@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#hero{
+    height: 100vh;
+    background-image: url('./silver-ganesh-statue-500x500.webp');
+    background-position: center;
+    background-size: cover;
+}
+.myheight{
+    height: 100vh;
+}
+.card1:hover{
+cursor: pointer;
+
+}
